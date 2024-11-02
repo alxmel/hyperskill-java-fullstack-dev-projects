@@ -24,6 +24,7 @@ public class CalculateNetIncome {
         System.out.printf("Pancake: $%d%n", pancake);
         System.out.printf("%nIncome: $%d%n", income);
 
+        // Asking user for input
         System.out.println("Staff expenses:");
         int staffExpenses = sc.nextInt();
         System.out.println("Other expenses:");
